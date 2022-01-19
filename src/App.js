@@ -26,7 +26,7 @@ function App() {
 					className='logoStart'
 				>
 					<img
-						src='https://github.com/Abhisingh755/My-portfolio/blob/main/src/assets/Abhi_logo.jpg?raw=true'
+						src='https://github.com/Abhisingh755/my_portfolio/blob/main/src/assets/logo_copy.jpg?raw=true'
 						alt='logo'
 					/>
 				</div>
