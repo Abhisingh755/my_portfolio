@@ -59,7 +59,7 @@ const SideIcons = () => {
 					</li>
 					<li>
 						<a
-							href='#'
+							href='https://www.instagram.com/raj_deep.singh'
 							aria-label='Instagram'
 							target='_blank'
 							rel='noreferrer'
