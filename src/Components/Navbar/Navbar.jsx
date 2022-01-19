@@ -54,10 +54,11 @@ const Navbar = () => {
 			}}
 		>
 			<div className={styles.navbar}>
-				<a href='https://github.com/Abhisingh755'>
+				<a href='https://github.com/rajdeep9565'>
 					<div className={styles.logo}>
 						<img
-							src='https://github.com/Abhisingh755/My-portfolio/blob/main/src/assets/Abhi_logo.jpg?raw=true'
+							src='https://github.com/rajdeep9565/my_portfolio/blob/main/src/assets/logo%20copy.jpg
+?raw=true'
 							alt='Logo'
 						/>
 					</div>
